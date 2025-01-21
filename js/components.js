@@ -28,8 +28,8 @@ const headerHTML = `
 
             <!-- Desktop menu -->
             <div class="hidden md:flex space-x-8 font-body font-medium">
-                <a href="index.html" class="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">Sculptures</a>
-                <a href="index.html" class="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">Projects</a>
+                <a href="sculptures.html" class="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">Sculptures</a>
+                <a href="projects.html" class="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">Projects</a>
                 <a href="faq.html" class="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">FAQ</a>
                 <a href="about.html" class="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">About</a>
             </div>
@@ -54,8 +54,8 @@ const headerHTML = `
             <!-- Navigation items container -->
             <div class="max-w-[1320px] mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="flex flex-col items-center justify-center h-[calc(100vh-88px)] space-y-8 text-2xl font-display">
-                    <a href="index.html" class="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors transform hover:scale-110">Sculptures</a>
-                    <a href="index.html" class="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors transform hover:scale-110">Projects</a>
+                    <a href="sculptures.html" class="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors transform hover:scale-110">Sculptures</a>
+                    <a href="projects.html" class="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors transform hover:scale-110">Projects</a>
                     <a href="faq.html" class="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors transform hover:scale-110">FAQ</a>
                     <a href="about.html" class="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors transform hover:scale-110">About</a>
                 </div>
